@@ -1,4 +1,4 @@
-# tutoriais
+# Tutoriais
 
 Sei que muita gente tem preguiça de procurar cursos/tutoriais sobre algum tema específico. Eu também. xD
 Assim, deixo aqui um agregado constantemente atualizado¹ de coisas que já peguei por aí, alguns já fiz, outros estão no meu to-do e outros sei lá de onde vieram.
@@ -8,13 +8,13 @@ Enjoy!
 ### Graphic Computer
 [Adobe Muse CC](https://www.youtube.com/playlist?list=PLO_xIfla8f1z3v10MqwOn82Th7GisxToc)
 
-[Edge Animate CC](https://www.youtube.com/playlist?list=PLO_xIfla8f1xVnl0Vttu6pq0GjGZQQbz3)
+[Adobe Premiere CC](https://www.youtube.com/playlist?list=PLO_xIfla8f1xSBts89-i-_onWkYQIjFet)
 
 [Core Draw X7](https://www.youtube.com/playlist?list=PLO_xIfla8f1yObKXCCAByglWqulYUWit2)
 
 [Core Draw Prático](https://www.youtube.com/playlist?list=PLBgSZOd1Ka-xHbojQivnKi9SRXae0esGW)
 
-[Adobe Premiere CC](https://www.youtube.com/playlist?list=PLO_xIfla8f1xSBts89-i-_onWkYQIjFet)
+[Edge Animate CC](https://www.youtube.com/playlist?list=PLO_xIfla8f1xVnl0Vttu6pq0GjGZQQbz3)
 
 [Efeitos Especiais](https://www.youtube.com/playlist?list=PLiIkFK6GN1dKRKgBtfjs-JGXNHlBxSqFO)
 
